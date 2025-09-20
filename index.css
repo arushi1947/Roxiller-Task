@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small custom */
+:root {
+  --accent: #2563eb; /* blue-600 */
+}
